@@ -31,10 +31,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Dwashi2/FructusUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-06%20at%2020.06.08.png" width="248">
-  <img src="https://raw.githubusercontent.com/Dwashi2/FructusUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-06%20at%2020.05.49.png" width="248">
-  <img src="https://raw.githubusercontent.com/Dwashi2/FructusUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-06%20at%2020.05.33.png" width="248">
-  <img src="https://raw.githubusercontent.com/Dwashi2/FructusUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-06%20at%2020.05.55.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/AfricaUI/main/1.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/AfricaUI/main/2.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/AfricaUI/main/3.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/AfricaUI/main/4.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/AfricaUI/main/5.png" width="248">
 </p>
  
  
